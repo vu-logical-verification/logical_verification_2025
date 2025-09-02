@@ -1,4 +1,4 @@
-# Logical Verification 2024-2025
+# Logical Verification 2025-2026
 
 This repository contains the Lean demos and exercise sheets used in the course
 _Logical Verification_ at the Vrije Universiteit Amsterdam for the academic year
@@ -26,7 +26,7 @@ navigate to the location where you would like to have the course files, and
 run the following command to clone this repository:
 
 ```bash
-git clone https://github.com/vu-logical-verification/logical_verification_2024
+git clone https://github.com/vu-logical-verification/logical_verification_2025
 ```
 
 ![Cloning this Git repo](.imgs/clone.png)

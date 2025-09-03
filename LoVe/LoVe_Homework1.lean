@@ -114,13 +114,3 @@ theorem reverse_append {α : Type} :
 end BackwardProofs
 
 end LoVe
-
-
-
-
-
-
-
-end BackwardProofs
-
-end LoVe

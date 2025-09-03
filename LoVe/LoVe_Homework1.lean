@@ -4,7 +4,7 @@ Johannes Hölzl, and Jannis Limperg. See `LICENSE.txt`. -/
 import LoVe.LoVe03_BackwardProofs_ExerciseSheet
 
 
-/- # LoVe Homework 1 (12 points): Backward Proofs
+/- # LoVe Homework 1 (10 points): Backward Proofs
 
 Replace the placeholders (e.g., `:= sorry`) with your solutions. -/
 
@@ -17,7 +17,7 @@ namespace LoVe
 namespace BackwardProofs
 
 
-/- ## Question 1 (5 points): Connectives and Quantifiers
+/- ## Question 1 (3 points): Connectives and Quantifiers
 
 1.1 (2 points, 0.5 each). Complete the following proofs using basic tactics such as
 `intro`, `apply`, and `exact`.

@@ -231,7 +231,6 @@ theorem reverse_append {α : Type} :
 end BackwardProofs
 
 end LoVe
- = reverse ys ++ reverse xs := sorry
 
 
 

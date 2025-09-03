@@ -4,7 +4,7 @@ Johannes Hölzl, and Jannis Limperg. See `LICENSE.txt`. -/
 import LoVe.LoVe03_BackwardProofs_ExerciseSheet
 
 
-/- # LoVe Homework 1 (10 points): Backward Proofs
+/- # LoVe Homework 1 (12 points): Backward Proofs
 
 Replace the placeholders (e.g., `:= sorry`) with your solutions. -/
 
@@ -48,7 +48,7 @@ theorem weak_peirce (a b : Prop) :
   sorry
 
 
-/- ## Question 2 (5 points): Logical Connectives
+/- ## Question 2 (7 points): Logical Connectives
 
 2.1 (1 point). Prove the following property about implication using basic
 tactics.

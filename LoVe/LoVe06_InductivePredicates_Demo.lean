@@ -158,7 +158,7 @@ def starRec {α : Type} (R : α → α → Bool) :
 inductive Star'{α : Type} (R : α → α → Prop): α → α → Prop
 where
   | refl (a : α)      : Star' R a a
-  | chain (a b c : α) : Star' R a b → Star' R b c → Star' R a c
+  | chain (a b c : α) : Star' R a b → R b c → Star' R a c
 
 theorem Star'_Trans {α : Type} (R : α → α → Prop) (a b c : α) :
   Star' R a b → Star' R b c → Star' R a c :=
